@@ -26,7 +26,7 @@ NODE_ENV: 'production'
  production : {
  user : 'root',
  host : ['175.178.82.176'],
- ref: "origin/master",
+ ref: "origin/main",
  // 远程仓库地址
  repo: "git@github.com:yummyzhang123/vue-blog-server.git",
  // 指定代码拉取到服务器的⽬录
